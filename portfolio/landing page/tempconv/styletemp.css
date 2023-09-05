@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(43, 14, 173);
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    background-color: rgb(166, 14, 151);
+    border: none;
+    padding: 14px 30px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
